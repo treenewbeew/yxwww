@@ -24,7 +24,7 @@ const directDomains = [
     { domain: "cfip.1323123.xyz" },
     { domain: "cloudflare-ip.mofashi.ltd" },
     { domain: "cf.877771.xyz" },
-    { domain: "xn--b6gac.eu.org" }，{ domain: "cf.130519.xyz" }
+    { domain: "xn--b6gac.eu.org" },{ domain: "cf.130519.xyz" }
 ];
 
 // 默认优选IP来源URL
